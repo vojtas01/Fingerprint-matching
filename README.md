@@ -79,5 +79,5 @@ This module works in the same way as the matching_example.py module.
 
 - [Fingerprint matching by Gautam Meeshi (GitHub Repository)](https://github.com/gbnm2001/SIL775-fingerprint-matching)
 
-
+\
 Any bug reports or improvements are welcome, please contact me at: vojtasedl@seznam.cz
