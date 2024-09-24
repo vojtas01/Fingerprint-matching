@@ -1,0 +1,6 @@
+matplotlib==3.9.1.post1
+numpy==2.0.1
+opencv_python==4.9.0.80
+opencv_python_headless==4.9.0.80
+scipy==1.14.0
+skimage==0.0
